@@ -1,0 +1,6 @@
+
+                    Имя вызываемой функции: <function Phonebook.search_contact_by_first_and_second_name at 0x03B901D8>
+                    С аргументами: (<__main__.Phonebook object at 0x03A572F8>, 'Karl', 'Hasbro'), {}
+                    Результат выполнения функции:
+                    {'book_name': 'My_testbook', 'contacts': [<__main__.Contact object at 0x03A572E0>, <__main__.Contact object at 0x03A572C8>]}
+                    
